@@ -11,7 +11,7 @@ I'm a backend developer focused on building reliable APIs and scalable backend s
 - System Design
 - Docker
 - Microsoft Azure
-- DSA (NeetCode 150)
+- DSA
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
